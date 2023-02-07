@@ -9,3 +9,4 @@ map file maker
 - 4: tem um opção de personalização windows na outra pasta inicial sem  ser o ultimate com icon e whatever desde png até .ico
 - features:
 - leia o código do canvas (do software ultimate map sk maker) e leia o exemplo da database das 3 tabelas. Espero que tenha ficado claro.
+- ele trabalha sempre com o ultimo cenario. o workspace dele é lá.
