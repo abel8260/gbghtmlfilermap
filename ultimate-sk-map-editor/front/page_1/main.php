@@ -1,0 +1,24 @@
+<?php
+/* Realiza a inclusão dos arquivos com os códigos Model, View, Controller*/
+include './Controller/Controller_1.php';
+
+
+
+
+/* Pega a ação passada pela URL*/
+
+
+/* Valida a ação passada, verifica se ela existe e se ela e o login 
+ * Se a ação for exisir e for login inicia a função login do Controller
+ * Se não inicia a função login da View*/
+
+   
+	$controller = new Controller();
+	$controller->login();
+	
+use cs\View as c;
+      $view = new c();
+    $view->loginn();
+	
+
+?>
