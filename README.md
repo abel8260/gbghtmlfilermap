@@ -10,3 +10,7 @@ map file maker
 - features:
 - leia o código do canvas (do software ultimate map sk maker) e leia o exemplo da database das 3 tabelas. Espero que tenha ficado claro.
 - ele trabalha sempre com o ultimo cenario. o workspace dele é lá.
+
+## fix-issue:
+- lembrem-se que se o total px der falha ou o total tiles vcs podem arrumar colocando direto o valor que voces querem tornando mais personalizada
+-- a experiência
